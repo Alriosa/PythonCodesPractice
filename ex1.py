@@ -12,6 +12,8 @@ if number1>number2:
     print("Number one is the major one");
 else:
     print("Number two is the major one");
+if number1==number2:
+    print("they are equal");
 
 
 
