@@ -1,0 +1,15 @@
+#List are like Arrays but the difference here is they can be store more than one type of object.
+
+positionBeggining = int(input())
+positionEnd = int(input())
+
+PatriotsArray=["la", "li" , "lu" , "le" , "lo"]
+
+#Uno puede definir de donde hasta donde quieres que se imprima.
+
+print(PatriotsArray[positionBeggining:positionEnd])
+
+
+
+#Aqui solo se imprimira la posicion cero porque es la primera (Por eso puse un 0)
+print(PatriotsArray[0])
