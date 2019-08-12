@@ -1,3 +1,4 @@
+import types;
 #Ex1
 #Alriosa
 
@@ -12,4 +13,7 @@ if number1>number2:
 else:
     print("Number two is the major one");
 
-exit(); #With this i finalize the code 
+
+
+
+exit(); #With this i finalize the code
