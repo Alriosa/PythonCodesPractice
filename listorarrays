@@ -13,3 +13,22 @@ print(PatriotsArray[positionBeggining:positionEnd])
 
 #Aqui solo se imprimira la posicion cero porque es la primera (Por eso puse un 0)
 print(PatriotsArray[0])
+
+
+#impresionTotal
+
+print(PatriotsArray[:])
+
+
+PatriotsArray.append("You're pretty good")
+
+#Ahora cuando imprima to do , saldra el mensaje de arriba.
+
+print(PatriotsArray[:])
+
+PatriotsArray.insert(2,"SNAKEEEE")
+
+print(PatriotsArray[:])
+
+#Las listas se pueden sumar. Osea para crear como una super lista.
+
