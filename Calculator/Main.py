@@ -1,8 +1,8 @@
 from Calculator.BusinessLayer import MathFunctions
 
 print("This is the Calculator v1.0")
-number1: int(input("Enter the first number: "))
-number2: int(input("Enter the second number: "))
+number1= int(input("Enter the first number: "))
+number2= int(input("Enter the second number: "))
 
 print("Now , what would you like to do?")
 print("1 - to Addition")
